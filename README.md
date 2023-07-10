@@ -1,18 +1,17 @@
 # Project 2(2022-11-21~2022-12-12)
 
-## 팀소개
-
 ## 프로젝트 주제 소개 
-
-## 요구사항 분석
-
-
-## 프로젝트 일정
 
 주제 : 서울시 3세대 골목상권 입주희망자를위한 매출액 예측 데이터셋 구축
 
-* 상권 자체의 성공은 매출액으로 파악
+## 프로젝트 일정
+
 [WBS링크](https://docs.google.com/spreadsheets/d/1Z8hfsF6niLpXW_e0yKKWuMNuLca0PBXT8Dl_4GF1q_Y/edit#gid=0)
+
+## 프로젝트 상세
+
+* 상권 자체의 성공은 매출액으로 파악
+
 
 사용 자료)
 1. A Case Study on the Local Platform from the Public Design Perspective for the Revitalization of Alley Commercial Area
@@ -104,7 +103,7 @@ X9, 오프라인 클래스 현황 - [크롤링]
     방법 : 셀레니움을 사용하여 원하는정보를 크롤링해온다.
 
 
-Django : 스파크,하둡 으로 가공한 데이터를 aws에 적재하여 폴리움으로 aws의 데이터를가지고 시각화를한다.
+Django : 스파크로 가공한 데이터를 aws에 적재하여 폴리움으로 aws의 데이터를가지고 시각화를한다.
 
 # 최종결과물
 
